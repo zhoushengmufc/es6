@@ -6,5 +6,5 @@ ECMAScript® 2016 语言规范 中文版
  
 http://zhoushengfe.com/es6/es6-ch.html
 
-# 欢迎大家一起翻译 
+# 欢迎大家一起翻译  
  
