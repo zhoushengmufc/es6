@@ -11,5 +11,3 @@ http://zhoushengfe.com/es6/es6-ch.html
 ECMAScript6词法： http://www.cnblogs.com/mufc-go/p/7886527.html
 
  
-# 欢迎大家一起翻译    
- 
